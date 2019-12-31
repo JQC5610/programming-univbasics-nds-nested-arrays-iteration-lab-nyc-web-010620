@@ -15,7 +15,7 @@ while i < src.length do
   i += 1
 end
 
-pair
+  pair
 end
 
 def find_greater_pair(src)
